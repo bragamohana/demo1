@@ -1,0 +1,44 @@
+.main-footer {
+  color:black;
+  background-color: rgb(212, 224, 224);
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-wrap {
+  flex: 1;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    margin-top:0px;
+    padding:5px;
+}
+.row1{
+    text-align: center;
+    padding: 2px;
+    font-size: smaller;
+}
+.list-unstyled li{
+    color: darkblue;
+    padding: 5px;
+    text-decoration: none;
+    list-style:none ;
+}
+.col h3{
+    color:black;
+    text-decoration: underline;
+    padding: 5px;
+}
+
+.list-unstyled li:hover{
+    color: rgb(139, 0, 111);
+}

@@ -1,0 +1,26 @@
+.button-sec{
+    display:flex;
+    width: 100%;
+}
+.btn{
+    display: grid;
+    grid-template-columns: auto, auto;
+    border:solid white 2px;
+    background: transparent;
+    padding:7px 16px;
+    font-size: 1.1rem;
+    color:black;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition:0.3s all ease-out;
+    height:8vh;
+    margin: 9px;
+    width:auto;
+    border: 2px solid black;
+    
+}
+.btn:hover{
+    color:rgb(255, 255, 255);
+    background: rgb(235, 109, 12);
+    cursor:pointer;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "email":"raga@gmail.com",
+        "maths":"47/60",
+        "science": "51/60",
+        "engineeringphysics":"52/60",
+        "english":"49/60",
+        "computers":"53/60",
+        "chemistry":"48/60",
+        "gk":"51/60",
+        "remakrs":"PASS"
+    },
+    {
+      "id": 2,
+      "email": "mohana@gmail.com",
+      "maths": "48/60",
+      "science": "57/60",
+      "engineeringphysics": "54/60",
+      "english": "46/60",
+      "computers": "47/60",
+      "chemistry": "48/60",
+      "gk": "53/60",
+      "remakrs": "PASS"
+    },
+    {
+      "id": 3,
+      "email": "abc@gmail.com",
+      "maths": "52/60",
+      "science": "54/60",
+      "engineeringphysics": "52/60",
+      "english": "49/60",
+      "computers": "58/60",
+      "chemistry": "44/60",
+      "gk": "48/60",
+      "remakrs": "PASS"
+    }
+]

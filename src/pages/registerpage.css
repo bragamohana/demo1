@@ -1,0 +1,24 @@
+.bgimage{
+    position:relative;
+    filter: blur(5px);
+    width:100%;
+    background-size:contain;
+    height: 1000px;
+}
+.actual-form{
+    position:absolute;
+    top:50px;
+    right:200px;
+}
+.register-text{
+    position:absolute;
+    width:400px;
+    padding: 30px;
+    left: 110px;
+    top: 250px;
+    color: white;
+    font-size: 25px;
+    border: 5px solid white;
+    font-family:cursive;
+    background-color: rgba(0, 0, 0, 0.541);
+}

@@ -1,0 +1,28 @@
+.bgimage-login{
+    position:relative;
+    filter: blur(5px);
+    width:100%;
+    background-size:contain;
+    height: 850px;
+}
+.actual-login-form{
+    position:absolute;
+    top:100px;
+    right:35%;
+    background-color: black;
+    width:400px;
+    border-radius: 30px;
+}
+.login-text{
+    position:absolute;
+    width:70%;
+    /* height: 30px; */
+    padding: 30px;
+    left: 180px;
+    top: 650px;
+    color: white;
+    font-size: 25px;
+    border: 5px solid white;
+    font-family:cursive;
+    background-color: rgba(0, 0, 0, 0.541);
+}
